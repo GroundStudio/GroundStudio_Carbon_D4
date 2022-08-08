@@ -1,25 +1,30 @@
 GroundStudio Jade Nano
 ====================================
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/1726-placa-de-dezvoltare-jade-nano.html)
+Get it from [ardushop.ro](https://ardushop.ro/ro/home/2059-placa-de-dezvoltare-carbon-d4.html)
 
 Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
 
 Description
 -------------------
-Development board based on ATmega328P and HT42B534-2 for USB comunication.
+Development board based on ESP32-PICO-D4 System-in-Package (SiP) and CH340C for USB comunication.
 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio/GroundStudio_Jade_Nano/tree/main/Documentation/) -- Pinout.
-* [/Hardware](https://github.com/GroundStudio/GroundStudio_Jade_Nano/tree/main/Hardware/) -- Schematics, layout.
+* [/Documentation](https://github.com/GroundStudio/GroundStudio_Carbon_D4/tree/main/Documentation) -- Pinout.
+* [/Hardware](https://github.com/GroundStudio/GroundStudio_Carbon_D4/tree/main/Hardware) -- Schematics, layout.
 
 Versions
 -------------------
 *(Not all tags shown)*
 
-* [REV0.2]
+* [REV0.0.2]
+  * added testpoint for GPIO0
+  * R16 and R17 connected in series
+  * interchanged GPIO2 and GPIO12 functions because GPIO12 cannot be pulled high while in flash mode
+  * added 100nF in parallel with R13 for better battery voltage level reading
+  * adjusted the pin labels for better visibility
 
 License
 -------------------
