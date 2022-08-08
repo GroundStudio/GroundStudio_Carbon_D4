@@ -1,0 +1,24 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid bd52c257-b828-422e-9d53-56f267e1b001)
+
+  (paper "A4")
+
+  (title_block
+    (title "Carbon D4")
+    (date "2021-12-08")
+    (rev "0.0.2")
+    (company "GroundStudio.ro")
+    (comment 1 "Schematic: Victor")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "REV 0.0.2:\n\n-added testpoint for GPIO0\n-R16 and R17 connected in series\n-interchanged GPIO2 and GPIO12 functions because GPIO12 cannot be pulled high while in flash mode\n-added 100nF in parallel with R13 for better battery voltage level reading\n"
+    (at 13.97 34.29 0)
+    (effects (font (size 2.032 2.032)) (justify left bottom))
+    (uuid 910d6f7a-f5dc-4626-86c2-c79ec2eb8ac6)
+  )
+)
