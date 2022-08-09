@@ -1,4 +1,4 @@
-GroundStudio Jade Nano
+GroundStudio Carbon D4
 ====================================
 
 Get it from [ardushop.ro](https://ardushop.ro/ro/home/2059-placa-de-dezvoltare-carbon-d4.html)
