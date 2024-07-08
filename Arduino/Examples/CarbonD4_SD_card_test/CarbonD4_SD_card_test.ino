@@ -25,9 +25,10 @@ void writeFile(fs::FS &fs, const char * path, const char * message){
 void setup()
 {
   Serial.begin(9600);
+  while (!Serial) delay(100);
   Serial.println();
   SPI.end(); 
-  spiSD.begin(18, 23, 19, SD_CS); //CLK,MOSI,MISO,SS
+  spiSD.begin(18, 19, 23, SD_CS); //CLK,MISO,MOSI,SS
   if (!SD.begin(SD_CS, spiSD))
   {
     Serial.println("Card Mount Failed");
