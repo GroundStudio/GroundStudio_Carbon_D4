@@ -2,9 +2,9 @@ GroundStudio Carbon D4
 ====================================
 [![CarbonD4 cropat la 150 h](https://user-images.githubusercontent.com/77836107/186913201-d3a53bf6-74c6-4602-8ed7-4a210b5ebee5.png)](https://ardushop.ro/ro/home/2059-placa-de-dezvoltare-carbon-d4.html)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/2059-placa-de-dezvoltare-carbon-d4.html)
+Get it from [ardushop.ro](https://ardushop.ro/en/electronics/1186-placa-de-dezvoltare-carbon-d4-6427854000408.html)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
